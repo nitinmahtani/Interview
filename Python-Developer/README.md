@@ -42,15 +42,3 @@ array, minimize the number of problems a student needs to solve based on the cri
         If the threshold is 4, again it takes 3 problems solving problems 1, 3 and 4 where points[3] - points[0] = 5 - 1 = 1.
          This meets the threshold, so the student must solve at least 3 problems. Return 3
 
-4. Docker installation
-
-Install Docker and download the image jcdemo/flaskapp.
-Run the container in detached mode and expose port 5000. 
-Visit port 5000 on your local computer. 
-Put the output in a new text file and add it to this Github directory. 
-
-5. Write a script that takes a number as an input and reverses it out to the user. For example, if the original number is 123, the output should be 321.
-
-6. Write a Unix shell script to find the sum of number to given number. e.g. if entered number is 5 then 1+2+3+4+5
-
-Good luck!
