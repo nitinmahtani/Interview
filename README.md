@@ -47,7 +47,10 @@ array, minimize the number of problems a student needs to solve based on the cri
 Install Docker and download the image jcdemo/flaskapp.
 Run the container in detached mode and expose port 5000. 
 Visit port 5000 on your local computer. 
-Put the output in a new text file and add it to this Github directory.  
+Put the output in a new text file and add it to this Github directory. 
 
+5. Write a script that takes a number as an input and reverses it out to the user. For example, if the original number is 123, the output should be 321.
+
+6. Write a Unix shell script to find the sum of number to given number. e.g. if entered number is 5 then 1+2+3+4+5
 
 Good luck!
