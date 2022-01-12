@@ -18,3 +18,7 @@ Write a Unix shell script to find the sum of number to given number. e.g. if ent
 ### Python 
 
 Using either django or Flask build an application which executes Linux commands and prints the output.
+
+### Linux
+
+Setup an SFTP server on your local/cloud Linux environment with Jailroot
