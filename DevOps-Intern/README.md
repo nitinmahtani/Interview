@@ -17,7 +17,9 @@ Write a Unix shell script to find the sum of number to given number. e.g. if ent
 
 ### Python 
 
-Using either django or Flask build an application which executes Linux commands and prints the output.
+1. Write a Django/Flask application which will have basic CRUD functionality for a PostgreSQL database backend. The PostgreSQL DB name will be a guest book and table name will be guest.
+2. Add an end points to the same application, which executes weather.py python scripts in git repo https://github.com/KunalNK/my_weather_scraper and shows the output
+3. Post your answers into a github repo and share the link
 
 ### Linux
 
