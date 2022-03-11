@@ -19,3 +19,10 @@ def test_4():
 
 def test_5():
     assert center_zeros([]) == []
+if __name__ == "__main__":
+    test_1()
+    test_2()
+    test_3()
+    test_4()
+    test_5()
+

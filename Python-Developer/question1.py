@@ -1,7 +1,11 @@
 def select_max(array):
-    # write your function here
-    # do NOT use the built-in max() function
-    pass
+    if not array:
+        return None
+    maxi = array[0]
+    for item in array:
+        if item > maxi:
+            maxi = item
+    return maxi
 
 
 if __name__ == "__main__":
